@@ -1,0 +1,8 @@
+{
+  "name": "streamrepo-extensions",
+  "description": "Starter Cloudstream repository for anineko.to",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Streamrepo-aniyomi/streamrepo-extensions/main/cloudstream/plugins.json"
+  ]
+}
