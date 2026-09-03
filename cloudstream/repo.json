@@ -1,8 +1,8 @@
 {
-  "name": "streamrepo-extensions",
-  "description": "Starter Cloudstream repository for anineko.to",
+  "name": "my-stream-repo",
+  "description": "Generated Cloudstream project for moescrapper.netlify.app",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Streamrepo-aniyomi/streamrepo-extensions/main/cloudstream/plugins.json"
+    "https://raw.githubusercontent.com/Streamrepo-aniyomi/streamrepo-extensions/refs/heads/builds/cloudstream/plugins.json"
   ]
 }
